@@ -1,5 +1,4 @@
-# LearnovaX - Complete Setup Guide
-🚀 LearnovaX — AI That Fixes How You Learn
+#🚀 LearnovaX — AI That Fixes How You Learn
 
 Students don’t fail because they are weak. They fail because they don’t know what they don’t know.
 LearnovaX identifies your weak areas, trains you with exam-level practice, and improves your performance — automatically.
