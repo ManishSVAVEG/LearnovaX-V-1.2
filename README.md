@@ -1,5 +1,52 @@
 # LearnovaX - Complete Setup Guide
+🚀 LearnovaX — AI That Fixes How You Learn
 
+Students don’t fail because they are weak. They fail because they don’t know what they don’t know.
+LearnovaX identifies your weak areas, trains you with exam-level practice, and improves your performance — automatically.
+
+---
+
+⚡ What It Does (in seconds)
+
+- 🎯 Detects weak topics from your test performance
+- 🧠 Generates multi-concept, exam-level questions
+- 📊 Gives instant feedback + improvement insights
+- 🗂️ Creates structured notes & smart summaries
+- 📅 Helps you plan and track your study workflow
+
+---
+
+🎥 Demo (See It Working)
+
+👉 https://youtube.com/shorts/BjuUNB6juKo?feature=share
+
+---
+
+💡 Why It’s Different
+
+LearnovaX is not just another AI study app.
+It creates a feedback loop:
+
+Test → Detect Weakness → Learn → Practice → Improve
+
+This simulates real exam thinking — not passive learning.
+
+---
+
+🛠 Built With
+
+React Native (Expo) • TypeScript • Multi-AI Providers (OpenAI, Gemini, Groq, Claude)
+
+---
+
+⚠️ Note
+
+This is a fully working V1 product focused on real usage.
+Advanced features (cloud sync, scaling, etc.) are planned in future versions.
+
+---
+
+👉 Scroll down for full setup, features, and technical details.
 A free, AI-powered learning platform for students worldwide.
 **No subscription, no costs, no feature locking.**
 
