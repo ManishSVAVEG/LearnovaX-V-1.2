@@ -339,7 +339,7 @@ LearnovaX is **free and open-source**.
 ---
 
 ## Final Notes
-
+Youtube Video Link-https://youtube.com/shorts/BjuUNB6juKo?feature=share
 Happy Studying! 🎓
 
 Built with ❤️ for students everywhere. No ads. No costs. Just learning.
